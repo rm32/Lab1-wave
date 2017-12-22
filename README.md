@@ -1,4 +1,4 @@
-# creating a waveform using an MBED system
+# Creating a waveform using an MBED system
                            
 ## Description
 Create 14 digital pulses with increasing width with a space of 900us
@@ -8,4 +8,4 @@ There should be a space of 1.5uS between each block of pulses
 Set digital outputs high and low to create digital pulses
 
 ## Authors
-Roshenac Mitchell  January 2016
+Roshenac Mitchell -  January 2016
